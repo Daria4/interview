@@ -1,0 +1,1 @@
+CREATE TABLE `interview`.`interview` ( `id` INT NOT NULL , `Name` VARCHAR(45) NOT NULL , `SecondName` VARCHAR(45) NOT NULL , `ThirdName` VARCHAR(45) NOT NULL , `Description` VARCHAR(500) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
